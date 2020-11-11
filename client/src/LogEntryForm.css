@@ -1,0 +1,14 @@
+.entry-form label,
+.entry-form input,
+.entry-form textarea,
+.entry-form button {
+  margin: 0.5rem;
+  display: block;
+  width: 100%;
+}
+.entry-form {
+  z-index: 3;
+}
+.error {
+  color: #f05305;
+}
